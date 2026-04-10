@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "u_1775012610530",
+      "email": "user@example.com",
+      "passwordHash": "$2a$10$zY1PXTrHULaeu8gB.3y7Iud9flB2wr49U6GWt1vbCHqgOSDZbFXZ.",
+      "verified": false,
+      "fullName": "",
+      "birthday": "",
+      "profilePhotoUri": "",
+      "provider": "email"
+    },
+    {
+      "id": "u_1775013420637",
+      "email": "moosec06@gmail.com",
+      "passwordHash": "$2a$10$JyW4cc73plxiwStnYiv5H.lW2RMHeHreSvixMMCN2175DvCoxXdmm",
+      "verified": true,
+      "fullName": "mark",
+      "birthday": "2000-08-05",
+      "profilePhotoUri": "content://media/picker_get_content/0/com.android.providers.media.photopicker/media/1000146846",
+      "provider": "email"
+    },
+    {
+      "id": "u_1775013735659",
+      "email": "rageelixirgame@gmail.com",
+      "passwordHash": "$2a$10$unzZuwLvHZM9qeu1TNl5qOZLuBC.QWpTCDy.kom.5/RYhzPnx2L9y",
+      "verified": false,
+      "fullName": "",
+      "birthday": "",
+      "profilePhotoUri": "",
+      "provider": "email"
+    },
+    {
+      "id": "u_1775014491353",
+      "email": "fekon6516@marvetos.com",
+      "passwordHash": "$2a$10$PDwZYV8xm3cqDJZbWMquzuNzM7afl8ejsc82/Q0LuxuGnXySDBzq.",
+      "verified": true,
+      "fullName": "mbc",
+      "birthday": "2004-08-05",
+      "profilePhotoUri": "",
+      "provider": "email"
+    }
+  ]
+}
